@@ -7,6 +7,8 @@ Back in the days I used to work also a lot with Ruby and Rails.
 
 I am very passionate about Rust and the development practices that lead to reliable software.
 
+At the moment in spare time I work on [Nutype](https://github.com/greyblake/nutype) library that pushes Rust's type safety even futher.
+
 My editor is (Neo)Vim, my operating system is Linux.
 
 I maintain number of open source projects (see the pinned projects below) and write tech articles in my blog [greyblake.com](https://greyblake.com).
