@@ -1,7 +1,7 @@
 
 # Hello there!
 
-My name is Sergey, I am experienced web developer.
+My name is Serhii, I am experienced web developer.
 Today my primary tech stack is Rust, PostgreSQL, TypeScript and React.
 Back in the days I used to work also a lot with Ruby and Rails.
 
